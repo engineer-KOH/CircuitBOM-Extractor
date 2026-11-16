@@ -1,0 +1,17 @@
+# Environment variables & secrets
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Outputs & temporary files
+outputs/*
+!outputs/.gitkeep
+*.log
+.DS_Store
+
+# IDE settings
+.vscode/settings.json
