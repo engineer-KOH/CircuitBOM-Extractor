@@ -16,5 +16,5 @@ outputs/*
 # IDE settings
 .vscode/settings.json
 
-docs/
+docs/*
 inputs/drawings/*
